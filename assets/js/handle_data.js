@@ -3,7 +3,7 @@
 async function cargarJSON(ruta) {
     try {
         // Realiza una solicitud HTTP para cargar el archivo JSON.
-        const response = await fetch('assets/js/'+ruta+'.json');
+        const response = await fetch('assets/data/'+ruta+'.json');
 
         // Verifica si la solicitud fue exitosa.
         if (!response.ok) {
