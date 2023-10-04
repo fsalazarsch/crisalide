@@ -25,7 +25,10 @@ async function cargarJSON(ruta) {
             const divElement = document.createElement('div');
             divElement.className = 'resume-item';
             const h4Element = document.createElement('h4');
-            h4Element.textContent = item.posicion; 
+            if (item.data)
+                h4Element.innerHTML = item.posicion+ "<a href="+item.data+"><i class=\"fa-solid fa-download\"></i></a>"
+            else
+                h4Element.textContent = item.posicion; 
             divElement.appendChild(h4Element);
             const h5Element = document.createElement('h5');
             h5Element.textContent = item.tiempo; 
