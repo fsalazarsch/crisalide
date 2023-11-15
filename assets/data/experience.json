@@ -24,13 +24,13 @@
         "cuerpo": "<ul><li>Development of customer fidelity solutions, focused on smartphones (native and hybrid), using backend made in Java, and frontEnd made in ionic (angular) and kotlin</li><li>Develop and consume API, in Java and PHP</li><li>Coaching of development process and analysis using kanban, scrum and ishikawa diagram (fishbone)</li><li>Usage of test in Jasmine, and mockito</li></ul>"
     },
     {
-        "posicion": "Project Manager, Developer",
+        "posicion": "Tech Leader, Developer",
         "tiempo": "Aug 2017 - Nov 2019",
         "lugar": "Bindex | Santiago, Chile",
         "cuerpo": "<ul><li>Planning, administration and development of financial platforms under Flask, Django and Yii2, use of scraping</li><li>Testing using Pytest and PHPTest</li><li>Meet with clients to get common issues of old platforma and, manage new modules of financial platform</li><li>Use of scraping to provide real information y realtime to the users</li><li>Use of API for segmentation of several platforms, to provide information by client</li><li>Planned and managed the phases of the development life cycle of the software </li><li>Provided technical leadership to internals through coaching and mentorship</li><li>DB Administration in MySQL and MongoDB</li><li>Upgrade of old modules made in Java, from old JBoss version to Wildfly</li></ul>"
     },
     {
-        "posicion": "Project Manager, DJango Developer, Amazon Cloud",
+        "posicion": "Tech Leader, DJango Developer, Amazon Cloud",
         "tiempo": "May 2016 - Jun 2017",
         "lugar": "Connectus | Santiago, Chile",
         "cuerpo": "<ul><li>Planning and migrate SMS and Email delivery platform development from scratch, from PHP to Django</li><li>Migrate from shared host to Amazon AWS</li><li>Develop new addons implementing SMS using Amazon Services</li><li>Coaching to non-technical administrators using kanban</li></ul>"
@@ -49,7 +49,7 @@
     },
     {
         "posicion": "PHP, Mobile Developer (internship)",
-        "tiempo": "Nov 2012 - Dec 2013",
+        "tiempo": "Nov 2012 - Jan 2013",
         "lugar": "Larrain Vial Ltd. | Santiago, Chile",
         "cuerpo": "<ul><li>Internal social network, made in PHP, SQL Server and jQuery</li><li>Purpose of new plugins and addons to the solution</li></ul>"
     },
@@ -57,12 +57,12 @@
         "posicion": "Freelance Developer",
         "tiempo": "Sep 2011 - Apr 2014",
         "lugar": "Freelance developer | Santiago, Chile",
-        "cuerpo": "<ul><li>Developer in several platforms of design, Human Resources, and Public Services under TI àrea</li><li>Usage of several languages such as PHP, Python and Java and different frameworks</li><li>Use of Kanban and SCRUM to develop solutions of any kind of scale</li></ul>"
+        "cuerpo": "<ul><li>Developer in several platforms of design, Human Resources, and Public Services under IT area</li><li>Usage of several languages such as PHP, Python and Java and different frameworks</li><li>Use of Kanban and SCRUM to develop solutions of any kind of scale</li></ul>"
     },
     {
         "posicion": "Java, XML, PHP Developer",
         "tiempo": "Jan 2011 - Apr 2011",
         "lugar": "Neoingen Ltda.| Santiago, Chile",
-        "cuerpo": "<ul><li>Coding of web pages made in PHP, win no framework </li><li>Use of Javascript, jQuery and Mootools</li><li>Consume web services under developed in Java, to a web platform</li></ul>"
+        "cuerpo": "<ul><li>Coding of web pages made in PHP, with no framework </li><li>Use of Javascript, jQuery and Mootools</li><li>Consume web services under developed in Java, to a web platform</li></ul>"
     }
 ]
